@@ -224,7 +224,7 @@ I specialize in building **multi-agent architectures** that solve real-world pro
 ---
 
 <p align="center">
-  <img width="100%" src="https://github.com/subh24ai/subh24ai/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+ <img width="1000" src="asset/github-snake.svg" alt="snake"/>
 </p>
 
 <div align="center">
