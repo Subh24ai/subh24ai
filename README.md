@@ -143,22 +143,6 @@ I specialize in building **multi-agent architectures** that solve real-world pro
 
 ---
 
-## 📊 Performance Metrics
-
-<div align="center">
-
-### 🎯 **Project Impact Statistics**
-| Metric | Value | Project |
-|--------|-------|---------|
-| False Positive Reduction | **85%** | Cyber Threat Hunter |
-| Research Efficiency Gain | **70%** | AI Research Assistant |
-| Content Generation Speed | **10x** | LinkedIn Post Generator |
-| Developer Productivity | **60%** | Code Collaborator |
-
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -173,23 +157,6 @@ I specialize in building **multi-agent architectures** that solve real-world pro
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subh24ai&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=subh24ai&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/subh24ai)
-
-</div>
-
-### 🎖️ **Professional Milestones(End of 2025)**
-- 🚀 **5+ Production AI Systems** deployed and scaling
-- 📚 **10+ Research Projects** in LLM and Multi-Agent Systems
-- 🤝 **Open Source Contributor** to AI/ML communities
-- 🎯 **85% Performance Improvement** in cybersecurity threat detection
-- 💡 **Innovation Leader** in autonomous AI applications
 
 ---
 
