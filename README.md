@@ -2,11 +2,11 @@
 
 <div align="center">
   
-## 🚀 LLM Engineer | AI Researcher | Autonomous Systems Developer
+## 🚀 LLM Engineer | Aspiring AI Researcher | Autonomous Systems Developer
 
 *Building the future with Large Language Models, Agentic AI, and Autonomous Agents*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=LLM+Engineer+%26+AI+Researcher;Building+Autonomous+AI+Systems;Multi-Agent+Architecture+Specialist;RAG+%26+Fine-Tuning+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=LLM+Engineer+%26+Aspiring+AI+Researcher;Building+Autonomous+AI+Systems;Multi-Agent+Architecture+Specialist;RAG+%26+Fine-Tuning+Expert)](https://git.io/typing-svg)
 
 </div>
 
