@@ -184,7 +184,7 @@ I specialize in building **multi-agent architectures** that solve real-world pro
 
 </div>
 
-### 🎖️ **Professional Milestones**
+### 🎖️ **Professional Milestones(End of 2025)**
 - 🚀 **5+ Production AI Systems** deployed and scaling
 - 📚 **10+ Research Projects** in LLM and Multi-Agent Systems
 - 🤝 **Open Source Contributor** to AI/ML communities
